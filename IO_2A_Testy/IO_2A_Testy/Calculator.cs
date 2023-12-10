@@ -13,5 +13,16 @@ namespace IO_2A_Testy
         {
             return x + y;
         }
+
+        public string Reverse(string s)
+        {
+            for(int i = 0; i < s.Length; i++)
+            {
+
+            }
+
+
+            return s;
+        }
     }
 }

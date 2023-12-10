@@ -60,5 +60,18 @@ namespace TestProject1
             int actual = Calculator.Sum(x, y);
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        [DataRow("jest","tsej")]
+        [DataRow("", "")]
+        [DataRow("oko", "oko")]
+        [DataRow("krab", "bark")]
+        [DataRow("auto", "otua")]
+
+        public void AddTest4(string x, string expected)
+        {
+            string actual = Calculator.Reverse(x);
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

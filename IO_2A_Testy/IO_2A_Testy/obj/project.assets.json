@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Piegzon\\Desktop\\IO\\IO_2A_Testy\\IO_2A_Testy\\IO_2A_Testy.csproj",
+      "projectUniqueName": "C:\\Users\\Piegzon\\Desktop\\IO\\Testy\\IO_2A_Testy\\IO_2A_Testy\\IO_2A_Testy.csproj",
       "projectName": "IO_2A_Testy",
-      "projectPath": "C:\\Users\\Piegzon\\Desktop\\IO\\IO_2A_Testy\\IO_2A_Testy\\IO_2A_Testy.csproj",
+      "projectPath": "C:\\Users\\Piegzon\\Desktop\\IO\\Testy\\IO_2A_Testy\\IO_2A_Testy\\IO_2A_Testy.csproj",
       "packagesPath": "C:\\Users\\Piegzon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Piegzon\\Desktop\\IO\\IO_2A_Testy\\IO_2A_Testy\\obj\\",
+      "outputPath": "C:\\Users\\Piegzon\\Desktop\\IO\\Testy\\IO_2A_Testy\\IO_2A_Testy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Piegzon\\AppData\\Roaming\\NuGet\\NuGet.Config",
