@@ -67,6 +67,7 @@ namespace TestProject1
         [DataRow("oko", "oko")]
         [DataRow("krab", "bark")]
         [DataRow("auto", "otua")]
+        [DataRow("klacz", "zcalk")]
 
         public void AddTest4(string x, string expected)
         {

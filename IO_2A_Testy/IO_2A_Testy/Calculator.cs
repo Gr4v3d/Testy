@@ -16,13 +16,26 @@ namespace IO_2A_Testy
 
         public string Reverse(string s)
         {
-            for(int i = 0; i < s.Length; i++)
-            {
+            int n = s.Length;
+            char[] chars = new char[n];
+            chars = s.ToCharArray();
+            int m;
 
+            if (n % 2 == 0)
+            {
+                m = n / 2;
+            }
+            else m = n / 2 + 1;
+
+            for(int i  = 0; i < m; i++)
+            {
+                char helper = chars[i];
+                chars[i] = chars[n-1-i];
+                chars[n-1-i] = helper;
             }
 
-
-            return s;
+            string result = new string(chars);
+            return result;
         }
     }
 }
