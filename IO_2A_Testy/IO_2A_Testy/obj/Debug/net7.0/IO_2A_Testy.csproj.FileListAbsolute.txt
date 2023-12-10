@@ -13,3 +13,17 @@ C:\Users\ath.ACI-L412-11A\Documents\repos\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7
 C:\Users\ath.ACI-L412-11A\Documents\repos\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\IO_2A_Testy.pdb
 C:\Users\ath.ACI-L412-11A\Documents\repos\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\IO_2A_Testy.genruntimeconfig.cache
 C:\Users\ath.ACI-L412-11A\Documents\repos\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\ref\IO_2A_Testy.dll
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\bin\Debug\net7.0\IO_2A_Testy.exe
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\bin\Debug\net7.0\IO_2A_Testy.deps.json
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\bin\Debug\net7.0\IO_2A_Testy.runtimeconfig.json
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\bin\Debug\net7.0\IO_2A_Testy.dll
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\bin\Debug\net7.0\IO_2A_Testy.pdb
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\IO_2A_Testy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\IO_2A_Testy.AssemblyInfoInputs.cache
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\IO_2A_Testy.AssemblyInfo.cs
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\IO_2A_Testy.csproj.CoreCompileInputs.cache
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\IO_2A_Testy.dll
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\refint\IO_2A_Testy.dll
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\IO_2A_Testy.pdb
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\IO_2A_Testy.genruntimeconfig.cache
+C:\Users\Piegzon\Desktop\IO\Testy\IO_2A_Testy\IO_2A_Testy\obj\Debug\net7.0\ref\IO_2A_Testy.dll
